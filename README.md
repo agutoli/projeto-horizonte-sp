@@ -19,13 +19,14 @@ Depois, acesse `http://127.0.0.1:8000`. O workflow [`.github/workflows/docs.yml`
 
 ### Primeira publicação no GitHub Pages
 
-Antes da primeira execução, um administrador do repositório precisa habilitar o Pages:
+Antes da primeira execução, habilite o Pages por uma destas opções:
 
-1. acesse **Settings > Pages**;
-2. em **Build and deployment > Source**, selecione **GitHub Actions**;
-3. execute o workflow **Publicar documentação** pela aba **Actions**, ou envie uma alteração para a branch principal.
+- **Configuração manual (recomendada):** um administrador deve acessar **Settings > Pages** e, em **Build and deployment > Source**, selecionar **GitHub Actions**.
+- **Configuração automática:** crie o secret de repositório `PAGES_TOKEN` com um token diferente do `GITHUB_TOKEN`. Um fine-grained personal access token deve ter acesso ao repositório e permissões **Administration: write** e **Pages: write**; um token clássico deve ter o escopo `repo`.
 
-Essa configuração inicial não pode ser feita pelo `GITHUB_TOKEN`: a opção `enablement` de `actions/configure-pages` exige outro token com permissões administrativas. Depois que o site estiver habilitado, o workflow usa somente as permissões `pages: write` e `id-token: write` para configurá-lo e publicar novas versões.
+Em seguida, execute o workflow **Publicar documentação** pela aba **Actions**, ou envie uma alteração para a branch principal. Se `PAGES_TOKEN` existir, o workflow usa esse token somente na etapa que habilita e configura o site. Sem o secret, ele pressupõe que a configuração manual já foi realizada e usa o `GITHUB_TOKEN`. Depois que o site estiver habilitado, o secret pode ser removido; as publicações seguintes precisam somente das permissões `pages: write` e `id-token: write` já declaradas no workflow.
+
+> O erro `Resource not accessible by integration` ocorre quando `enablement: true` recebe o `GITHUB_TOKEN`: embora ele tenha `pages: write`, esse token não possui a permissão administrativa exigida para criar o site do Pages.
 
 ## Em cinco minutos
 

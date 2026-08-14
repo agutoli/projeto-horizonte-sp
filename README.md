@@ -19,12 +19,14 @@ Depois, acesse `http://127.0.0.1:8000`. O workflow [`.github/workflows/docs.yml`
 
 ### Primeira publicação no GitHub Pages
 
-Para que o workflow também habilite o Pages na primeira execução:
+Antes da primeira execução, habilite o Pages por uma destas opções:
 
-1. confirme que o uso do GitHub Pages é permitido para o repositório ou para a organização;
-2. execute o workflow **Publicar documentação** pela aba **Actions**, ou envie uma alteração para a branch principal.
+- **Configuração manual (recomendada):** um administrador deve acessar **Settings > Pages** e, em **Build and deployment > Source**, selecionar **GitHub Actions**.
+- **Configuração automática:** crie o secret de repositório `PAGES_TOKEN` com um token diferente do `GITHUB_TOKEN`. Um fine-grained personal access token deve ter acesso ao repositório e permissões **Administration: write** e **Pages: write**; um token clássico deve ter o escopo `repo`.
 
-O workflow concede ao `GITHUB_TOKEN` a permissão `pages: write` e solicita que `actions/configure-pages` habilite o Pages com a fonte **GitHub Actions**. Assim, não é necessário criar um token pessoal ou configurar a fonte manualmente.
+Em seguida, execute o workflow **Publicar documentação** pela aba **Actions**, ou envie uma alteração para a branch principal. Se `PAGES_TOKEN` existir, o workflow usa esse token somente na etapa que habilita e configura o site. Sem o secret, ele pressupõe que a configuração manual já foi realizada e usa o `GITHUB_TOKEN`. Depois que o site estiver habilitado, o secret pode ser removido; as publicações seguintes precisam somente das permissões `pages: write` e `id-token: write` já declaradas no workflow.
+
+> O erro `Resource not accessible by integration` ocorre quando `enablement: true` recebe o `GITHUB_TOKEN`: embora ele tenha `pages: write`, esse token não possui a permissão administrativa exigida para criar o site do Pages.
 
 ## Em cinco minutos
 

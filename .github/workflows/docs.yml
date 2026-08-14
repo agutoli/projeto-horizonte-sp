@@ -19,6 +19,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      HAS_PAGES_TOKEN: ${{ secrets.PAGES_TOKEN != '' }}
     steps:
       - name: Baixar repositório
         uses: actions/checkout@v5
@@ -36,10 +38,16 @@ jobs:
       - name: Gerar site
         run: mkdocs build --strict
 
-      - name: Configurar GitHub Pages
+      - name: Habilitar e configurar GitHub Pages
+        if: env.HAS_PAGES_TOKEN == 'true'
         uses: actions/configure-pages@v6
         with:
+          token: ${{ secrets.PAGES_TOKEN }}
           enablement: true
+
+      - name: Configurar GitHub Pages já habilitado
+        if: env.HAS_PAGES_TOKEN != 'true'
+        uses: actions/configure-pages@v6
 
       - name: Preparar artefato
         uses: actions/upload-pages-artifact@v4

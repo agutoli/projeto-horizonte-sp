@@ -4,7 +4,7 @@
 
 O projeto parte de um problema simples: muitos jovens passam pela escola sem conseguir visualizar caminhos profissionais concretos. Ao mesmo tempo, esperar que eles se desloquem por conta própria até cursos, laboratórios ou centros técnicos provavelmente não alcança quem mais precisa.
 
-A proposta é testar um modelo ativo: quebrar a rotina escolar com experiências práticas fortes, presenciais e fáceis de acessar, levando descoberta profissional até escolas e territórios prioritários. A ambição é geracional: ajudar jovens a enxergar mundos de trabalho que talvez nunca apareceriam no cotidiano deles.
+A proposta é testar um modelo ativo de **laboratórios móveis de descoberta profissional**: estruturas itinerantes, inspiradas em experiências como SENAI móvel, que quebrem a rotina escolar com atividades práticas, presenciais e fáceis de acessar. A ambição é geracional: ajudar jovens a enxergar mundos de trabalho que talvez nunca apareceriam no cotidiano deles.
 
 !!! note "Estado do projeto"
     Isto ainda **não é um projeto final**. É um esboço organizado para apresentar a ideia, receber crítica e decidir se vale avançar para diagnóstico, parceiros, custos e piloto.
@@ -13,7 +13,7 @@ A proposta é testar um modelo ativo: quebrar a rotina escolar com experiências
 
 - **Motivo:** estudantes de baixa renda têm menos acesso a repertório profissional, laboratórios, orientação e informação sobre formação.
 - **O que resolve:** reduz a distância entre o jovem e possibilidades reais, quase "pegando na mão" no primeiro contato.
-- **Como funciona:** oficinas práticas que chegam até a escola, orientação direta e conexão com cursos, bolsas, aprendizagem e oportunidades verificadas.
+- **Como funciona:** laboratórios móveis ou kits itinerantes chegam até a escola com oficinas práticas, orientação direta e conexão com cursos, bolsas, aprendizagem e oportunidades verificadas.
 - **Para quem:** estudantes do 9º ano e ensino médio da rede pública, priorizando territórios mais vulneráveis.
 - **Como começar:** piloto pequeno, com avaliação, sem comprar frota ou prometer escala antes de testar.
 
@@ -23,14 +23,14 @@ Em vez de esperar que o jovem vá até a oportunidade, o projeto leva a oportuni
 
 Na prática, isso significa:
 
-- montar uma experiência diferente dentro ou perto da escola;
+- montar laboratórios móveis, oficinas itinerantes ou experiências temporárias dentro ou perto da escola;
 - usar equipamentos, demonstrações e oficinas que chamem atenção;
 - mostrar profissões com atividade concreta, não só palestra;
 - apresentar várias possibilidades: robótica, elétrica, mecânica de motos/carros/caminhões, pedreiro, marcenaria, carpintaria, torneiro mecânico, soldagem, costura, programação, audiovisual, gastronomia, energia solar, saúde, design 3D, agricultura tecnológica e outras áreas;
 - conectar a experiência a cursos e próximos passos reais;
 - medir se isso gera interesse, inscrição e encaminhamento efetivo.
 
-O uso de espaços existentes continua importante, mas como apoio. O coração do projeto é uma abordagem ativa, de busca: a política vai até o estudante.
+O uso de espaços existentes continua importante, mas como apoio. O coração do projeto é uma abordagem ativa, de busca: a política vai até o estudante, especialmente onde perspectiva e referência profissional quase não chegam.
 
 ## A lógica do projeto
 

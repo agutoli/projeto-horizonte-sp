@@ -1,4 +1,4 @@
-# Unidades móveis
+# Laboratórios móveis
 
 > **Status:** esboço inicial — contém orientação mínima, ainda dependente de pesquisa, fontes e validação.
 
@@ -12,9 +12,11 @@ Executar as etapas e satisfazer os gates correspondentes em [`21-roadmap.md`](..
 
 ## Esboço inicial
 
-As unidades móveis são uma hipótese operacional importante porque ajudam a levar presença física, equipamentos e demonstrações até escolas que não teriam laboratório. Elas fazem sentido quando a política precisa disputar atenção e reduzir a distância entre jovem e oportunidade.
+Os laboratórios móveis são uma hipótese operacional importante porque ajudam a levar presença física, equipamentos e demonstrações até escolas que não teriam laboratório. Eles fazem sentido quando a política precisa disputar atenção e reduzir a distância entre jovem e oportunidade.
 
-Esta seção deve comparar unidades móveis com ações montadas na própria escola e modelos híbridos. Antes de propor frota própria, o projeto deve inventariar ativos existentes em SENAI, SENAC, Centro Paula Souza, Institutos Federais, universidades, municípios e órgãos estaduais, mas sempre com a pergunta central: como isso chega até o jovem?
+Esta seção deve comparar laboratórios móveis com ações montadas na própria escola e modelos híbridos. Antes de propor frota própria, o projeto deve inventariar ativos existentes em SENAI, SENAC, Centro Paula Souza, Institutos Federais, universidades, municípios e órgãos estaduais, mas sempre com a pergunta central: como isso chega até o jovem?
+
+O laboratório móvel pode ser um ônibus, caminhão, carreta, van, tenda técnica ou conjunto de kits transportáveis. Para estudantes do 9º ano e ensino médio, muitas experiências devem ser simples, seguras e introdutórias, com baixo risco e alto poder de despertar curiosidade.
 
 ## Critérios de análise
 

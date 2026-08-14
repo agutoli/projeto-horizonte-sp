@@ -12,7 +12,9 @@ Rede pública de descoberta profissional e conexão com oportunidades.
 
 > E se todo estudante pudesse experimentar possibilidades antes de decidir seu próximo passo?
 
-*Abra com a experiência do jovem, não com a infraestrutura. A proposta é disputar atenção de forma positiva, dentro da rotina escolar, e ampliar repertório de uma geração.*
+Laboratórios móveis para levar profissões, ferramentas e curiosidades do mundo real até escolas públicas.
+
+*Abra com a experiência do jovem, não com a compra de caminhões. A proposta é disputar atenção de forma positiva, dentro da rotina escolar, e ampliar repertório de uma geração.*
 
 ---
 
@@ -27,6 +29,8 @@ Estudantes não têm acesso igual a:
 
 **Hipótese:** essa desigualdade de exposição pode restringir escolhas antes mesmo de elas serem formuladas.
 
+Jovens que crescem sem referências próximas podem nem imaginar certas perguntas: quem faz um sistema funcionar? como um motor é consertado? como uma peça é fabricada? como alguém entra em robótica, elétrica, marcenaria, programação ou soldagem?
+
 Também há uma barreira prática: esperar que o jovem procure sozinho um curso, um laboratório ou uma visita técnica fora da escola provavelmente alcança poucos. O projeto precisa ir até ele.
 
 *Ainda precisamos dimensionar a lacuna e ouvir diretamente estudantes, famílias e escolas. O diagnóstico faz parte da proposta.*
@@ -40,7 +44,7 @@ DESCOBRIR → EXPERIMENTAR → INTERESSAR-SE
      → ORIENTAR-SE → ENCONTRAR FORMAÇÃO → ACESSAR OPORTUNIDADES
 ```
 
-O projeto combina experiências práticas breves, orientação e uma Central de Oportunidades verificadas. Não escolhe pelo jovem e não promete vaga.
+O projeto combina laboratórios móveis, experiências práticas breves, orientação e uma Central de Oportunidades verificadas. Não escolhe pelo jovem e não promete vaga.
 
 Na prática, é o Estado dizendo: "olha, existe robótica, elétrica, mecânica de motos, mecânica de carros, mecânica de caminhões, pedreiro, marcenaria, carpintaria, torneiro mecânico, soldagem, costura, programação, audiovisual, gastronomia, energia solar, saúde, design 3D e muitos outros caminhos". O jovem não precisa conhecer tudo antes; o projeto mostra o primeiro mapa.
 
@@ -70,10 +74,10 @@ A aposta é colocar o "doce na boca": dar uma experiência forte o bastante para
 | Alternativa | Quando pode fazer sentido |
 |---|---|
 | Ação na escola | quando kits, parceiros e espaços escolares bastam para criar a experiência |
-| Unidade móvel | quando presença física, equipamentos e impacto visual aumentam adesão |
+| Laboratório móvel | quando presença física, equipamentos e impacto visual aumentam adesão |
 | Modelo híbrido | quando ação ativa na escola conecta estudantes a polos e parceiros |
 
-O estudo deve utilizar ativos disponíveis, mas sem depender de o estudante ir até eles. **Não se propõe comprar caminhões antes dessa comparação**, mas a lógica do projeto é ativa: a experiência precisa chegar ao jovem.
+O estudo deve utilizar ativos disponíveis, inclusive possíveis estruturas do SENAI, SENAC e Sistema S, mas sem depender de o estudante ir até eles. **Não se propõe comprar frota antes dessa comparação**, mas a lógica do projeto é ativa: a experiência precisa chegar ao jovem.
 
 *A mobilidade é uma hipótese operacional forte porque cria presença e rompe a rotina. Se outra solução ativa for melhor, o desenho deve mudar.*
 

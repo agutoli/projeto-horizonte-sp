@@ -8,7 +8,9 @@ O Projeto Horizonte propõe testar uma rede pública ativa de descoberta profiss
 
 A ideia é simples: quando não é viável colocar bons laboratórios, equipamentos e profissionais especializados em cada escola, e quando esperar que o jovem vá sozinho atrás dessas oportunidades não alcança massa, o poder público precisa levar a experiência até ele. A proposta tem uma ambição geracional: mostrar ao jovem, de forma direta, que existem muitos caminhos possíveis.
 
-O projeto não começa com a compra de caminhões. Começa com uma pergunta pública:
+O instrumento inicial imaginado é um conjunto de **laboratórios móveis de descoberta profissional**, em ônibus, caminhões, carretas, vans, tendas, kits transportáveis ou estruturas temporárias montadas na escola. A referência mais próxima é algo como um SENAI móvel, com potencial de parceria com SENAI, SENAC, Sistema S, indústria de São Paulo e instituições técnicas já existentes.
+
+O projeto não começa comprando frota. Começa validando qual formato de laboratório móvel é mais seguro, barato, atraente e útil para estudantes do 9º ano e ensino médio.
 
 > Como permitir que mais jovens conheçam profissões, experimentem possibilidades e encontrem próximos passos concretos antes de decidir seu futuro?
 
@@ -16,17 +18,19 @@ Em linguagem simples, o projeto quer "pegar na mão" no primeiro contato: coloca
 
 ## 2. O problema
 
-Muitos estudantes passam pela educação básica sem contato concreto com profissões, ambientes técnicos, ferramentas, rotinas de trabalho e caminhos de formação. Para jovens de baixa renda, especialmente em territórios com pouca infraestrutura educacional e profissionalizante, essa distância pode limitar escolhas antes mesmo de elas serem formuladas.
+Muitos estudantes passam pela educação básica sem contato concreto com profissões, ambientes técnicos, ferramentas, rotinas de trabalho e caminhos de formação. Para jovens de baixa renda, especialmente em territórios onde quase não há referências profissionais fora do círculo imediato, essa distância pode limitar escolhas antes mesmo de elas serem formuladas.
+
+Um filho de médico, engenheiro, cientista ou programador tende a crescer ouvindo conversas, vendo ferramentas, entendendo que certos caminhos existem. Um filho de família sem escolaridade, sem rede profissional e sem contato com esses mundos pode sequer imaginar as perguntas: como um sistema funciona? quem programa um computador? como se projeta uma peça? como se conserta um motor? como se aprende uma profissão técnica?
 
 O problema não deve ser apresentado como culpa do jovem. Mas a proposta precisa reconhecer a disputa real pela atenção: redes sociais, entretenimento digital, eventos locais e dinâmicas de grupo competem com qualquer ação educativa tradicional. Uma política que dependa apenas de convite, palestra ou deslocamento voluntário provavelmente alcançará poucos.
 
-Por isso, a proposta busca uma abordagem mais ativa: quebrar a rotina escolar com experiências presenciais, práticas e marcantes, levando descoberta profissional às escolas e territórios prioritários. A infraestrutura existente deve ser usada quando ajudar, mas o centro do projeto é ir até o estudante.
+Por isso, a proposta busca uma abordagem mais ativa: quebrar a rotina escolar com experiências presenciais, práticas e marcantes, levando descoberta profissional às escolas e territórios onde perspectiva quase não existe. A infraestrutura existente deve ser usada quando ajudar, mas o centro do projeto é ir até o estudante.
 
 ## 3. A solução proposta
 
 O Projeto Horizonte combina três elementos:
 
-1. **Experiências práticas curtas:** oficinas seguras e introdutórias em áreas como elétrica, mecânica de motos/carros/caminhões, pedreiro, marcenaria, carpintaria, torneiro mecânico, soldagem, tecnologia, programação, robótica, energia solar, saúde, audiovisual, gastronomia, construção civil, agricultura tecnológica e outras vocações regionais.
+1. **Laboratórios móveis e experiências práticas curtas:** oficinas seguras e introdutórias em áreas como elétrica, mecânica de motos/carros/caminhões, pedreiro, marcenaria, carpintaria, torneiro mecânico, soldagem, tecnologia, programação, robótica, energia solar, saúde, audiovisual, gastronomia, construção civil, agricultura tecnológica e outras vocações regionais.
 2. **Orientação profissional contextualizada:** explicação clara sobre o que cada área faz, quais formações existem, quais requisitos são necessários e quais caminhos são realistas para cada faixa etária.
 3. **Central de Oportunidades:** catálogo verificado de cursos, bolsas, aprendizagem profissional, visitas, programas públicos, processos seletivos e oportunidades compatíveis com idade, território e requisitos.
 
@@ -36,7 +40,7 @@ O portfólio deve mostrar variedade real. Exemplos de ramos possíveis: robótic
 
 ## 4. Como funcionaria na prática
 
-A implementação deve privilegiar a chegada até o estudante. O formato pode usar pátios, quadras, salas adaptadas, espaços públicos próximos, equipamentos existentes ou unidades móveis, mas a lógica é reduzir fricção: o jovem encontra a experiência dentro da rotina escolar, sem depender de deslocamento voluntário.
+A implementação deve privilegiar a chegada até o estudante. O formato pode usar laboratórios móveis, pátios, quadras, salas adaptadas, espaços públicos próximos, equipamentos existentes, unidades do SENAI/SENAC ou kits transportáveis mais simples. A lógica é reduzir fricção: o jovem encontra a experiência dentro da rotina escolar, sem depender de deslocamento voluntário.
 
 Uma jornada inicial poderia seguir este fluxo:
 
@@ -73,7 +77,7 @@ O projeto deve comparar três alternativas:
 | Modelo | Quando pode fazer sentido |
 |---|---|
 | **Ação na escola** | quando a experiência pode ser montada com kits, parceiros e espaços escolares |
-| **Unidade móvel** | quando presença, equipamentos e deslocamento aumentam adesão e cobertura |
+| **Laboratório móvel** | quando presença, equipamentos e deslocamento aumentam adesão e cobertura |
 | **Modelo híbrido** | quando a ação ativa na escola conecta estudantes a polos, cursos e parceiros |
 
 Antes de comprar frota própria, o projeto deve inventariar estruturas existentes e verificar como elas podem apoiar a ação ativa. O ponto não é mandar o estudante para longe; é usar parceiros e equipamentos para criar uma experiência acessível, próxima e difícil de ignorar.

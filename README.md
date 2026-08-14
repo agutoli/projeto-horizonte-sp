@@ -30,6 +30,8 @@ Em seguida, execute o workflow **Publicar documentação** pela aba **Actions**,
 
 ## Em cinco minutos
 
+Para apresentar a proposta a uma pessoa de fora, comece pelo [`documento principal`](proposal/documento-principal.md). Ele organiza a leitura em camadas: pitch, problema, solução, fases, financiamento, jurídico, avaliação e pedido de decisão.
+
 ### Problema
 
 O Projeto Horizonte parte de uma **hipótese a validar**: estudantes não têm as mesmas oportunidades de conhecer profissões, ambientes técnicos e caminhos de formação. Essa desigualdade de exposição pode restringir escolhas antes mesmo de elas serem formuladas.
@@ -132,6 +134,7 @@ custo_por_encaminhamento_efetivo =
 
 | Trilha | Entrada | Finalidade |
 |---|---|---|
+| Apresentação principal | [`proposal/documento-principal.md`](proposal/documento-principal.md) | documento de entrada para políticos, assessores e equipes técnicas |
 | Projeto técnico | [`docs/00-visao-geral.md`](docs/00-visao-geral.md) | índice dos capítulos e estado de elaboração |
 | Hipóteses | [`financial/assumptions.md`](financial/assumptions.md) | registro testável, sem números inventados |
 | Pesquisa | [`research/lacunas-de-pesquisa.md`](research/lacunas-de-pesquisa.md) | perguntas, evidências e critérios de conclusão |

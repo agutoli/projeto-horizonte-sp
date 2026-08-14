@@ -12,7 +12,7 @@ Rede pública de descoberta profissional e conexão com oportunidades.
 
 > E se todo estudante pudesse experimentar possibilidades antes de decidir seu próximo passo?
 
-*Abra com a experiência do jovem, não com a infraestrutura. A proposta é ampliar repertório e capacidade de escolha.*
+*Abra com a experiência do jovem, não com a infraestrutura. A proposta é disputar atenção de forma positiva, dentro da rotina escolar, e ampliar repertório de uma geração.*
 
 ---
 
@@ -27,6 +27,8 @@ Estudantes não têm acesso igual a:
 
 **Hipótese:** essa desigualdade de exposição pode restringir escolhas antes mesmo de elas serem formuladas.
 
+Também há uma barreira prática: esperar que o jovem procure sozinho um curso, um laboratório ou uma visita técnica fora da escola provavelmente alcança poucos. O projeto precisa ir até ele.
+
 *Ainda precisamos dimensionar a lacuna e ouvir diretamente estudantes, famílias e escolas. O diagnóstico faz parte da proposta.*
 
 ---
@@ -40,13 +42,17 @@ DESCOBRIR → EXPERIMENTAR → INTERESSAR-SE
 
 O projeto combina experiências práticas breves, orientação e uma Central de Oportunidades verificadas. Não escolhe pelo jovem e não promete vaga.
 
-*O diferencial não é uma atividade isolada: é conectar descoberta a um próximo passo concreto.*
+Na prática, é o Estado dizendo: "olha, existe robótica, elétrica, mecânica de motos, mecânica de carros, mecânica de caminhões, pedreiro, marcenaria, carpintaria, torneiro mecânico, soldagem, costura, programação, audiovisual, gastronomia, energia solar, saúde, design 3D e muitos outros caminhos". O jovem não precisa conhecer tudo antes; o projeto mostra o primeiro mapa.
+
+A aposta é colocar o "doce na boca": dar uma experiência forte o bastante para despertar curiosidade e aumentar a chance de o jovem buscar aperfeiçoamento depois.
+
+*O diferencial não é uma atividade isolada: é uma intervenção ativa que leva descoberta até a escola e conecta isso a um próximo passo concreto.*
 
 ---
 
 ## 4. Como a experiência pode funcionar
 
-1. a escola ou um polo recebe estações práticas de diferentes áreas;
+1. a escola recebe estações práticas de diferentes áreas, montadas no próprio ambiente escolar ou em estrutura móvel próxima;
 2. estudantes experimentam atividades seguras e contextualizadas;
 3. conhecem rotinas, formações, requisitos e possibilidades de cada campo;
 4. registram interesses de forma proporcional e protegida;
@@ -63,13 +69,13 @@ O projeto combina experiências práticas breves, orientação e uma Central de 
 
 | Alternativa | Quando pode fazer sentido |
 |---|---|
-| Estrutura existente | quando já há capacidade adequada e acessível |
-| Unidade móvel | quando compartilhar equipamentos melhora a cobertura |
-| Modelo híbrido | quando mobilidade complementa polos e parceiros locais |
+| Ação na escola | quando kits, parceiros e espaços escolares bastam para criar a experiência |
+| Unidade móvel | quando presença física, equipamentos e impacto visual aumentam adesão |
+| Modelo híbrido | quando ação ativa na escola conecta estudantes a polos e parceiros |
 
-O estudo deve utilizar primeiro ativos disponíveis e comparar custo total, qualidade, acesso e ociosidade. **Não se propõe comprar caminhões antes dessa comparação.**
+O estudo deve utilizar ativos disponíveis, mas sem depender de o estudante ir até eles. **Não se propõe comprar caminhões antes dessa comparação**, mas a lógica do projeto é ativa: a experiência precisa chegar ao jovem.
 
-*A mobilidade é uma hipótese operacional. Se outra solução for melhor, o desenho deve mudar.*
+*A mobilidade é uma hipótese operacional forte porque cria presença e rompe a rotina. Se outra solução ativa for melhor, o desenho deve mudar.*
 
 ---
 

@@ -43,48 +43,24 @@ markdown_extensions:
 
 nav:
   - Início: index.md
-  - Projeto técnico:
-      - Visão geral: docs/00-visao-geral.md
-      - Problema: docs/01-problema.md
-      - Teoria da mudança: docs/02-teoria-da-mudanca.md
-      - Público-alvo: docs/03-publico-alvo.md
-      - Modelo operacional: docs/04-modelo-operacional.md
-      - Unidades móveis: docs/05-unidades-moveis.md
-      - Experiências profissionais: docs/06-experiencias-profissionais.md
-      - Central de Oportunidades: docs/07-central-de-oportunidades.md
-      - Plataforma digital: docs/08-plataforma-digital.md
-      - Critérios territoriais: docs/09-criterios-territoriais.md
-      - Piloto em São Paulo: docs/10-piloto-sao-paulo.md
-      - Financiamento: docs/11-financiamento.md
-      - Parcerias empresariais: docs/12-parcerias-empresariais.md
-      - Governança: docs/13-governanca.md
-      - Modelo econômico: docs/14-modelo-economico.md
-      - Métricas: docs/15-metricas.md
-      - Avaliação de impacto: docs/16-avaliacao-impacto.md
-      - Riscos: docs/17-riscos.md
-      - Jurídico: docs/18-juridico.md
-      - LGPD e menores: docs/19-lgpd-e-menores.md
-      - Escalabilidade nacional: docs/20-escalabilidade-nacional.md
-      - Roadmap: docs/21-roadmap.md
-  - Propostas:
+  - Apresentação:
+      - Documento principal: proposal/documento-principal.md
       - Esboço para apresentação: proposal/esboco-apresentacao.md
       - Brief executivo: proposal/executive-brief.md
-      - Proposta política: proposal/proposta-politica.md
-      - Pitch empresarial: proposal/pitch-empresarial.md
       - Perguntas e respostas: proposal/perguntas-e-respostas.md
-  - Pesquisa:
+  - Como funcionaria:
+      - Modelo operacional: docs/04-modelo-operacional.md
+      - Unidades móveis: docs/05-unidades-moveis.md
+      - Central de Oportunidades: docs/07-central-de-oportunidades.md
+      - Piloto em São Paulo: docs/10-piloto-sao-paulo.md
+  - Viabilidade:
+      - Parcerias: docs/12-parcerias-empresariais.md
+      - Financiamento: docs/11-financiamento.md
+      - Modelo econômico: docs/14-modelo-economico.md
+      - Jurídico: docs/18-juridico.md
+      - LGPD e menores: docs/19-lgpd-e-menores.md
+  - Próximos passos:
       - Lacunas de pesquisa: research/lacunas-de-pesquisa.md
-      - Fontes: research/fontes.md
-      - Aprendizagem profissional: research/aprendizagem-profissional.md
-      - Dados de educação: research/dados-educacao.md
-      - Financiamento público: research/financiamento-publico.md
       - Infraestrutura existente: research/infraestrutura-existente.md
-      - Mercado de trabalho: research/mercado-trabalho.md
-      - Unidades móveis existentes: research/unidades-moveis-existentes.md
-  - Modelo financeiro:
-      - Premissas: financial/assumptions.md
-      - CAPEX: financial/capex.md
-      - OPEX: financial/opex.md
-      - Fixo vs. móvel: financial/fixed-vs-mobile.md
-      - Cenários: financial/scenarios.md
-  - Decisões: decisions/README.md
+      - Riscos: docs/17-riscos.md
+      - Roadmap: docs/21-roadmap.md

@@ -2,6 +2,31 @@
 
 > **Nome provisório.** Rede pública de descoberta profissional e conexão com oportunidades, inicialmente desenhada como piloto no Estado de São Paulo.
 
+## Site da documentação
+
+Este repositório pode ser publicado como um site estático navegável com [MkDocs Material](https://squidfunk.github.io/mkdocs-material/). O site inclui menu por trilhas, busca, links entre páginas e temas claro e escuro.
+
+Para visualizar localmente:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements-docs.txt
+mkdocs serve
+```
+
+Depois, acesse `http://127.0.0.1:8000`. O workflow [`.github/workflows/docs.yml`](.github/workflows/docs.yml) gera e publica o site automaticamente no GitHub Pages a cada alteração na branch principal.
+
+### Primeira publicação no GitHub Pages
+
+Para que o workflow também habilite o Pages na primeira execução:
+
+1. crie um fine-grained personal access token com acesso a este repositório e permissões de escrita para **Administration** e **Pages**;
+2. salve-o em **Settings → Secrets and variables → Actions → New repository secret**, com o nome `PAGES_TOKEN`;
+3. execute o workflow **Publicar documentação** pela aba **Actions**, ou envie uma alteração para a branch principal.
+
+O `GITHUB_TOKEN` padrão não pode habilitar o Pages. Depois que o site estiver habilitado, o segredo continua sendo usado pela etapa de configuração; ele pode ser rotacionado sem alterar o workflow.
+
 ## Em cinco minutos
 
 ### Problema

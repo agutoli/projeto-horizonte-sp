@@ -2,6 +2,21 @@
 
 > **Nome provisório.** Rede pública de descoberta profissional e conexão com oportunidades, inicialmente desenhada como piloto no Estado de São Paulo.
 
+## Site da documentação
+
+Este repositório pode ser publicado como um site estático navegável com [MkDocs Material](https://squidfunk.github.io/mkdocs-material/). O site inclui menu por trilhas, busca, links entre páginas e temas claro e escuro.
+
+Para visualizar localmente:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements-docs.txt
+mkdocs serve
+```
+
+Depois, acesse `http://127.0.0.1:8000`. O workflow [`.github/workflows/docs.yml`](.github/workflows/docs.yml) gera e publica o site automaticamente no GitHub Pages a cada alteração na branch principal. No GitHub, configure **Settings → Pages → Build and deployment → Source** como **GitHub Actions** uma única vez.
+
 ## Em cinco minutos
 
 ### Problema

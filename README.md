@@ -21,11 +21,10 @@ Depois, acesse `http://127.0.0.1:8000`. O workflow [`.github/workflows/docs.yml`
 
 Para que o workflow também habilite o Pages na primeira execução:
 
-1. crie um fine-grained personal access token com acesso a este repositório e permissões de escrita para **Administration** e **Pages**;
-2. salve-o em **Settings → Secrets and variables → Actions → New repository secret**, com o nome `PAGES_TOKEN`;
-3. execute o workflow **Publicar documentação** pela aba **Actions**, ou envie uma alteração para a branch principal.
+1. confirme que o uso do GitHub Pages é permitido para o repositório ou para a organização;
+2. execute o workflow **Publicar documentação** pela aba **Actions**, ou envie uma alteração para a branch principal.
 
-O `GITHUB_TOKEN` padrão não pode habilitar o Pages. Depois que o site estiver habilitado, o segredo continua sendo usado pela etapa de configuração; ele pode ser rotacionado sem alterar o workflow. No GitHub, configure **Settings → Pages → Build and deployment → Source** como **GitHub Actions** uma única vez.
+O workflow concede ao `GITHUB_TOKEN` a permissão `pages: write` e solicita que `actions/configure-pages` habilite o Pages com a fonte **GitHub Actions**. Assim, não é necessário criar um token pessoal ou configurar a fonte manualmente.
 
 ## Em cinco minutos
 

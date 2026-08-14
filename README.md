@@ -25,7 +25,7 @@ Para que o workflow também habilite o Pages na primeira execução:
 2. salve-o em **Settings → Secrets and variables → Actions → New repository secret**, com o nome `PAGES_TOKEN`;
 3. execute o workflow **Publicar documentação** pela aba **Actions**, ou envie uma alteração para a branch principal.
 
-O `GITHUB_TOKEN` padrão não pode habilitar o Pages. Depois que o site estiver habilitado, o segredo continua sendo usado pela etapa de configuração; ele pode ser rotacionado sem alterar o workflow.
+O `GITHUB_TOKEN` padrão não pode habilitar o Pages. Depois que o site estiver habilitado, o segredo continua sendo usado pela etapa de configuração; ele pode ser rotacionado sem alterar o workflow. No GitHub, configure **Settings → Pages → Build and deployment → Source** como **GitHub Actions** uma única vez.
 
 ## Em cinco minutos
 
